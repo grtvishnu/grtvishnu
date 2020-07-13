@@ -2,7 +2,7 @@
 
 I'm Vishnu. I'm a Computer Science Engineering graduate, with interests in data analytics, data science, and database management. I love the challenge of coding and I am passionate about it.
 
-- 🔭 I’m currently working on future job prediction
+- 🔭 I’m currently working on [Future Job Prediction](https://github.com/grtvishnu/Future-Job-Prediction)
 - 🌱 I’m currently learning Business Analytics
 - 💬 Ask me about Data Science and Machine Learning
 - 📫 How to reach me
