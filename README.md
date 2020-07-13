@@ -14,3 +14,4 @@ I'm Vishnu. I'm a Computer Science Engineering graduate, with interests in data 
 
 Here are some ideas to get you started:
 
+<img align="left" alt="GIF" src="https://media.giphy.com/media/hrSFdM4rg8VFpXyz2m/giphy.gif" />
