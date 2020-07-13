@@ -7,7 +7,7 @@ I'm Vishnu. I'm a Computer Science Engineering graduate, with interests in data 
 - 💬 Ask me about Data Science and Machine Learning
 - 📫 How to reach me
 
-[![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/vishnumon021)
+[![E-Mail](https://img.shields.io/badge/--email?label=E-mail&logo=Gmail&style=social)](mailto:optra7@gmail.com)[![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/vishnumon021) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/vishnuvu/)
 
 <!--
 **grtvishnu/grtvishnu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
